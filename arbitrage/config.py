@@ -1,4 +1,5 @@
 markets = [
+    "OKCoinCNY",
     "BtceUSD",
 ]
 
